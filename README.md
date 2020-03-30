@@ -1,5 +1,5 @@
 # Typed Data Classes
-![v0.0.1](https://img.shields.io/badge/release-v0.0.1-blue)
+![v0.1.0](https://img.shields.io/badge/release-v0.1.0-blue)
 ![Python Versions](https://img.shields.io/badge/python-3.7%20|%203.8-blue)
 ![Black Logo](https://img.shields.io/badge/code%20style-black-black.svg)
 

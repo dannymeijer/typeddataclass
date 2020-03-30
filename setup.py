@@ -34,7 +34,7 @@ description = (
 
 setup(
     name="typeddataclass",
-    version="0.0.1",
+    version="0.1.0",
     packages=["typeddataclass", "typeddataclasses"],
     include_package_data=True,
     url="https://github.com/dannymeijer/typeddataclass",
