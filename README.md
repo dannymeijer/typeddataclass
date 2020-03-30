@@ -59,3 +59,4 @@ Refer to `example/example.py` to see it in action.
 
 I am presenting this work under the GNU GENERAL PUBLIC LICENSE and do not provide any
 warranties of any kind. Feel free to raise any PRs or issues, should the need arise.
+See CONTRIBUTING.md for more details.
